@@ -4,6 +4,8 @@ code.cloudfoundry.org/bytefmt v0.58.0 h1:pj/1gobEDZh6PIlNnDmOJMAGnv9hb2NHbw7/PSU
 code.cloudfoundry.org/bytefmt v0.58.0/go.mod h1:koEpk4JCe4CXNcULPrdoTcMbkmG87+ZIT+vHqoNMyL0=
 dario.cat/mergo v1.0.0 h1:AGCNq9Evsj31mOgNPcLyXc+4PNABt905YmuqPYYpBWk=
 dario.cat/mergo v1.0.0/go.mod h1:uNxQE+84aUszobStD9th8a29P2fMDhsBdgRYvZOxGmk=
+github.com/BelgianSalamander/gortsplib/v5 v5.0.0-20251126030259-7086bc76b7bb h1:6DgAAtM4xGBZA3b4VurSJTn1MtwW01YQ/Ty61vFILEo=
+github.com/BelgianSalamander/gortsplib/v5 v5.0.0-20251126030259-7086bc76b7bb/go.mod h1:UYCbHEb0T49kBDgIlTJaZOchD2f5g1JigFmmxQfW7vY=
 github.com/Masterminds/semver/v3 v3.4.0 h1:Zog+i5UMtVoCU8oKka5P7i9q9HgrJeGzI9SA1Xbatp0=
 github.com/Masterminds/semver/v3 v3.4.0/go.mod h1:4V+yj/TJE1HU9XfppCwVMZq3I84lprf4nC11bSS5beM=
 github.com/MicahParks/jwkset v0.11.0 h1:yc0zG+jCvZpWgFDFmvs8/8jqqVBG9oyIbmBtmjOhoyQ=
@@ -37,8 +39,6 @@ github.com/bluenviron/gohlslib/v2 v2.2.4 h1:5F/Ud2VuJrrLYCDV0Ham947UIIrd801/GyoC
 github.com/bluenviron/gohlslib/v2 v2.2.4/go.mod h1:5J8Ry4xraLs6W0B2gVS0IqhCzcq+CDDJIisfkpoHyxM=
 github.com/bluenviron/gortmplib v0.1.1 h1:pmR6qfPcJJmE17lWQ/bpuBFZtgGnMrN8KdFj1Gl/ZoQ=
 github.com/bluenviron/gortmplib v0.1.1/go.mod h1:XWy2YzbTP1XEEZ8232OG7I1MSwubsbDRKDNhXGgS2kg=
-github.com/bluenviron/gortsplib/v5 v5.2.0 h1:yk0H9Z1Z+H41/x5hDt84rKm6+MNA483NsRXPYe+or/A=
-github.com/bluenviron/gortsplib/v5 v5.2.0/go.mod h1:UYCbHEb0T49kBDgIlTJaZOchD2f5g1JigFmmxQfW7vY=
 github.com/bluenviron/mediacommon/v2 v2.5.1 h1:qB2fb5c0xyl5OB2gfSfulpEJn7Cdm3vI2n8wjiLMxKI=
 github.com/bluenviron/mediacommon/v2 v2.5.1/go.mod h1:zy1fODPuS/kBd93ftgJS1Jhvjq7LFWfAo32KP7By9AE=
 github.com/bytedance/sonic v1.14.0 h1:/OfKt8HFw0kh2rj8N0F6C/qPGRESq0BbaNZgcNXXzQQ=

@@ -105,3 +105,5 @@ require (
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
+
+replace github.com/bluenviron/gortsplib/v5 => github.com/BelgianSalamander/gortsplib/v5 v5.0.0-20251126030259-7086bc76b7bb
